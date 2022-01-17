@@ -28,5 +28,5 @@
 
 ## Question 27
 
-    Il y a 16280 mots différents dans 'LeRougeEtLeNoir.txt'
+    Il y a 14445 mots différents dans 'LeRougeEtLeNoir.txt'
 
