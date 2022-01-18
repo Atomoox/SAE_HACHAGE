@@ -30,3 +30,14 @@
 
     Il y a 14445 mots différents dans 'LeRougeEtLeNoir.txt'
 
+# Execution de notre travail
+
+Pour éxecuter vos tests sur notre travail il vous suffiras de compiler tout les fichiers java présents dans le dossier.
+
+    javac {nom du fichier}.java
+
+Placez ensuite votre fichier de tests automatiques dans le dossier contenant les fichiers que vous venez de compiler. Compilez votre fichier de test en utilisant la méthode décrite juste au dessus.
+Puis lancez vos tests
+
+
+    javac {fichierDeTestAutomatiques}
